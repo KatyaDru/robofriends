@@ -7,11 +7,9 @@ Link to the page:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Contact me
+## Contact me
 
-My contact information:
-
-Facebook: [fb](https://www.facebook.com/ekaterina.soboleva)
+Facebook: [my blog (russian)](https://www.facebook.com/ekaterina.soboleva)
 
 Telegram: @drusakova
 
