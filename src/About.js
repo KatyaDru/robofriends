@@ -7,7 +7,7 @@ const About = () => {
 			<div className='dib pa3 ma3 ba br3'>
 				<p>
 				To make my first React app, I created some cute robots using Midjorney AI.
-				You can see the source code following <a href='https://github.com/KatyaDru/robofriends' rel="noreferrer" target='_blank' className='link dark-green dim'>this link</a>.
+				You can see the source code following <a href='https://github.com/KatyaDru/robofriends' rel='noreferrer' target='_blank' className='link dark-green dim'>this link</a>.
 				Midjorney is a Discord-bot that imagine pictures (in this case a robots) using custom keywords you can send to the bot.
 				</p>
 				<p>
