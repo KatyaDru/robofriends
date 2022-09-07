@@ -83,5 +83,20 @@ export const robots = [
 	id: 16,
 	name: 'Shon',
 	keywords: 'smiley in big hat',
+},
+{	 
+	id: 17,
+	name: 'Bob',
+	keywords: 'strong cat',
+},
+{	 
+	id: 18,
+	name: 'Oses',
+	keywords: 'smiley cyberpunk',
+},
+{	 
+	id: 19,
+	name: 'Sanches',
+	keywords: 'working strong',
 }
 ]
