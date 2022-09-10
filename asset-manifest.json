@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c31ec815.css",
-    "main.js": "/static/js/main.fa6d2578.js",
-    "static/js/787.32032a02.chunk.js": "/static/js/787.32032a02.chunk.js",
-    "index.html": "/index.html",
-    "main.c31ec815.css.map": "/static/css/main.c31ec815.css.map",
-    "main.fa6d2578.js.map": "/static/js/main.fa6d2578.js.map",
-    "787.32032a02.chunk.js.map": "/static/js/787.32032a02.chunk.js.map"
+    "main.css": "https://katyadru.github.io/robofriends/static/css/main.c31ec815.css",
+    "main.js": "https://katyadru.github.io/robofriends/static/js/main.b58ec4f4.js",
+    "static/js/787.32032a02.chunk.js": "https://katyadru.github.io/robofriends/static/js/787.32032a02.chunk.js",
+    "index.html": "https://katyadru.github.io/robofriends/index.html",
+    "main.c31ec815.css.map": "https://katyadru.github.io/robofriends/static/css/main.c31ec815.css.map",
+    "main.b58ec4f4.js.map": "https://katyadru.github.io/robofriends/static/js/main.b58ec4f4.js.map",
+    "787.32032a02.chunk.js.map": "https://katyadru.github.io/robofriends/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c31ec815.css",
-    "static/js/main.fa6d2578.js"
+    "static/js/main.b58ec4f4.js"
   ]
 }
